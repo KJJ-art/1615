@@ -3,7 +3,7 @@
   become: true
   vars:
     
-    git_repo_url: "https://github.com/KJJ-art/000iac"
+    git_repo_url: "https://github.com/KJJ-art/1615"
     web_root: "/var/www/html"
 
   tasks:
